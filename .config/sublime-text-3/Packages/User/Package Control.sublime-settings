@@ -1,0 +1,17 @@
+{
+	"installed_packages":
+	[
+		"BeautifyRuby",
+		"Better CoffeeScript",
+		"ConvertToUTF8",
+		"ERB Snippets",
+		"GitGutter",
+		"InputHelper",
+		"LineEndings",
+		"SublimeLinter",
+		"SublimeLinter-coffee",
+		"SublimeLinter-json",
+		"SublimeLinter-ruby",
+		"Theme - Flatland"
+	]
+}
